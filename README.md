@@ -1,3 +1,9 @@
+<div align="center">
+  <br />
+    <img src="https://ibb.co/Fhk7kyX" alt="Project Banner">
+  <br />
+</div>
+
 # Projekt Satchel
 
 Satchel is a React functional component designed to generate and manage cryptocurrency wallets. It supports both the generation of new wallets and the entry of existing recovery phrases. It displays generated private and public keys, provides functionality to copy them to the clipboard, and includes features for showing or hiding sensitive information.
