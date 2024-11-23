@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="https://ibb.co/Fhk7kyX" alt="Project Banner">
+    <img src="https://i.ibb.co/tHwCwvz/Satchel.png" alt="Project Banner">
   <br />
 </div>
 
